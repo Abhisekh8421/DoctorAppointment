@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600&family=Outfit:wght@100..900&family=Poppins:ital,wght@0,200;1,200&family=Prata&family=Roboto:wght@400;500&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+::-webkit-scrollbar{
+    @apply hidden
+}
+
+
+*{
+    font-family:Outfit
+}
